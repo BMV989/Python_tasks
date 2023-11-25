@@ -1,0 +1,5 @@
+.*/
+__py*__
+.DS_Store
+./venv/
+./.idea/
